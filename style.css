@@ -1,0 +1,15 @@
+body{
+    position: relative;
+    top: 0px;
+    background-color: rgb(221, 217, 212);
+    
+    
+  }
+
+  .list-group-item{
+      font-size: x-large
+  }
+
+  .card-body{
+      background-color: burlywood;
+  }
